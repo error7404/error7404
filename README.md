@@ -16,7 +16,7 @@
   <a href="https://wakatime.com/@error7404">
     <picture>
       <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=error7404&layout=compact&langs_count=3&custom_title=Weekly%20stats" media="(prefers-color-scheme: light)">
-      <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=error7404&langs_count=3&custom_title=Weekly%20stats&bg_color=191718&title_color=f0d738&text_color=797879&icon_color=f0d738&locale=fr&hide_border=true" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)">
+      <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=error7404&langs_count=3&custom_title=Weekly%20stats&bg_color=191718&title_color=f0d738&text_color=797879&icon_color=f0d738&locale=fr&hide_border=true&border_radius=10" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)">
       <img align="center" alt="Wakatime weekly stats">
   </a>
 </p>
