@@ -15,13 +15,9 @@
 	</a>
   <a href="https://wakatime.com/@error7404">
     <picture>
-      <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=error7404&layout=compact&langs_count=3&custom_title=Weekly%20stats" media="(prefers-color-scheme: light)">
-      <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=error7404&langs_count=3&custom_title=Weekly%20stats&bg_color=191718&title_color=f0d738&text_color=797879&icon_color=f0d738&locale=fr&hide_border=true&border_radius=10" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)">
+      <source srcset="https://github-readme-stats.vercel.app/api/wakatime?api_domain=wakapi.dev&username=error7404&langs_count=5&custom_title=WakaAPI%20Stats%20(last%20year)&locale=fr&layout=compact" media="(prefers-color-scheme: light)">
+      <source srcset="https://github-readme-stats.vercel.app/api/wakatime?api_domain=wakapi.dev&username=error7404&langs_count=5&custom_title=WakaAPI%20Stats%20(last%20year)&bg_color=191718&title_color=f0d738&text_color=797879&icon_color=f0d738&locale=fr&hide_border=true&border_radius=10" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)">
       <img align="center" alt="Wakatime weekly stats">
-    </picture>
-    <picture>
-      <source srcset="https://wakatime.com/share/@error7404/38211bde-f1a9-4608-8d55-c3ee596fa38f.svg" media="(prefers-color-scheme: light)">
-      <img align="center">
     </picture>
   </a>
 </p>
