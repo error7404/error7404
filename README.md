@@ -15,8 +15,8 @@
 	</a>
   <a href="https://wakatime.com/@error7404">
     <picture>
-      <source srcset="https://github-readme-stats.vercel.app/api/wakatime?api_domain=wakapi.dev&username=error7404&langs_count=5&custom_title=WakaAPI%20Stats%20(last%20year)&locale=fr&layout=compact" media="(prefers-color-scheme: light)">
-      <source srcset="https://github-readme-stats.vercel.app/api/wakatime?api_domain=wakapi.dev&username=error7404&langs_count=5&custom_title=WakaAPI%20Stats%20(last%20year)&bg_color=191718&title_color=f0d738&text_color=797879&icon_color=f0d738&locale=fr&hide_border=true&border_radius=10" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)">
+      <source srcset="https://github-readme-stats.vercel.app/api/wakatime?api_domain=wakapi.dev&username=error7404&langs_count=5&custom_title=WakaAPI%20Stats%20(last%20month)&locale=fr&layout=compact" media="(prefers-color-scheme: light)">
+      <source srcset="https://github-readme-stats.vercel.app/api/wakatime?api_domain=wakapi.dev&username=error7404&langs_count=5&custom_title=WakaAPI%20Stats%20(last%20month)&bg_color=191718&title_color=f0d738&text_color=797879&icon_color=f0d738&locale=fr&hide_border=true&border_radius=10" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)">
       <img align="center" alt="Wakatime weekly stats">
     </picture>
   </a>
