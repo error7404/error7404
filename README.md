@@ -76,9 +76,9 @@ Level     | Tools | Languages | Library / Engine
   </a>
   <a href="https://discord.com/users/315225736464171015" style="width: 410px; height: 210px;">
     <picture>
-      <source srcset="https://lanyard.cnrad.dev/api/315225736464171015?idleMessage=Not%20gaming&hideStatus=false&bg=191718" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)">
-      <source srcset="https://lanyard.cnrad.dev/api/315225736464171015?idleMessage=Not%20gaming&hideStatus=false&theme=light" media="(prefers-color-scheme: light)">
-      <img align="center" alt="Discord Presence" src="https://lanyard.cnrad.dev/api/315225736464171015?idleMessage=Not%20gaming&hideStatus=false")>
+      <source srcset="https://lanyard.cnrad.dev/api/315225736464171015?hideStatus=false&bg=191718" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)">
+      <source srcset="https://lanyard.cnrad.dev/api/315225736464171015?hideStatus=false&theme=light" media="(prefers-color-scheme: light)">
+      <img align="center" alt="Discord Presence" src="https://lanyard.cnrad.dev/api/315225736464171015?hideStatus=false")>
     </picture>
   </a>
 </p>
